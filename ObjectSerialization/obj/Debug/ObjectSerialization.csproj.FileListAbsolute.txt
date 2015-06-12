@@ -1,0 +1,6 @@
+E:\Laptop\Pradeep\Sandbox\SerializationObjectDatabase\ObjectSerialization\bin\Debug\ObjectSerialization.exe.config
+E:\Laptop\Pradeep\Sandbox\SerializationObjectDatabase\ObjectSerialization\bin\Debug\ObjectSerialization.exe
+E:\Laptop\Pradeep\Sandbox\SerializationObjectDatabase\ObjectSerialization\bin\Debug\ObjectSerialization.pdb
+E:\Laptop\Pradeep\Sandbox\SerializationObjectDatabase\ObjectSerialization\obj\Debug\ObjectSerialization.csprojResolveAssemblyReference.cache
+E:\Laptop\Pradeep\Sandbox\SerializationObjectDatabase\ObjectSerialization\obj\Debug\ObjectSerialization.exe
+E:\Laptop\Pradeep\Sandbox\SerializationObjectDatabase\ObjectSerialization\obj\Debug\ObjectSerialization.pdb
